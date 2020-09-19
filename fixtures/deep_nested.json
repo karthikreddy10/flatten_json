@@ -1,0 +1,13 @@
+{
+    "user": {
+        "details": {
+            "name": "karthik",
+            "location": {
+                "coordinates": {
+                    "lat": 34.5,
+                    "long": 21.6
+                }
+            }
+        }
+    }
+}

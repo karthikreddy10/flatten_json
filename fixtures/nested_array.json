@@ -1,0 +1,14 @@
+{
+    "club": {
+        "name": "manchester",
+        "location": {
+            "coordinates": {
+                "lat": 34.5,
+                "long": 21.6
+            }
+        },
+        "squad": {
+            "players": ["pogba", "bruno", "van de beek"]
+        } 
+    }
+}
